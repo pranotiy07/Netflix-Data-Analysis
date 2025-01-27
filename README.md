@@ -23,6 +23,6 @@
 <p>In a world where data-driven decisions are paramount, our Netflix Power BI Dashboard Project empowers content creators, marketers, and decision-makers in the entertainment industry to navigate the Netflix universe effectively. Explore the nuances of content genres, audience preferences, and international contributions while unveiling the hidden gems within Netflix's content repository. Welcome to the era of data-driven entertainment strategy, brought to life through the power of Power BI.</p>
 
 <p>Feel free to reach out for any questions or suggestions about this project. I'm open to discussions and eager to assist.
-  <a href="https://www.linkedin.com/in/mariya-jos/">
-  <img src=" Linkedln | Mariya Joseph" alt=""> Linkedln | Mariya Joseph</a><br>
+  <a href="https://www.linkedin.com/in/pranoti-yelwande/">
+  <img src=" Linkedln | pranoti yelwande" alt=""> Linkedln | Pranot Yelwande</a><br>
   <p> Don't forget to follow and star ⭐ the repository if you find it valuable.</p>
